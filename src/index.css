@@ -1,4 +1,4 @@
 @layer base,utilities, variables;
-@import "./variables.css" layer(variables);
 @import "./base.css" layer(base);
+@import "./variables.css" layer(variables);
 @import "./utilities.css" layer(utilities);
